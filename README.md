@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @rubenruvalcabac
-- 👀 I’m interested in ... 
-    - Design: Architecture, database design, UX/UI
-- 🌱 I’m currently learning ...
-    - Frontend: HTML & CSS
-- 📫 How to reach me ...
-    - rubenruvalcabac@hotmail.com
+👨‍💻 Software Developer with 35+ years of experience 🚀
+🛠️ Microsoft Stack Enthusiast | Backend Maestro | Frontend Pioneer
+🖥️ From Windows Forms to ReactJS/TS and Blazor Explorer
 
-<!---
-rubenruvalcabac/rubenruvalcabac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my coding journey! With over three decades in the world of software development, I've witnessed the ever-evolving Microsoft Stack and emerged as a seasoned backend architect. My expertise spans across a multitude of frontend technologies, from the classic Windows Forms to the modern power of ReactJS/TS. Currently, I'm venturing into the exciting world of Blazor, ready to push the boundaries of what's possible in web development. Let's build the future, one line of code at a time. 💻🌟
